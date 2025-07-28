@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: iokuno <iokuno@student.42tokyo.jp>         +#+  +:+       +#+         #
+#    By: okunoitsuki <okunoitsuki@student.42.fr>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/07/11 21:25:54 by iokuno            #+#    #+#              #
-#    Updated: 2025/07/26 13:31:49 by iokuno           ###   ########.fr        #
+#    Updated: 2025/07/29 08:18:40 by okunoitsuki      ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -82,7 +82,9 @@ SRCS := ft_abs.c \
         ft_substr.c \
         ft_tolower.c \
         ft_toupper.c \
-        ft_wordcount.c
+        ft_wordcount.c \
+        ft_find_next_line.c \
+        get_next_line.c
 
 OBJS := $(SRCS:.c=.o)
 
