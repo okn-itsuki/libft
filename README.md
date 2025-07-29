@@ -12,3 +12,7 @@ Additional Functions
 - void		ft_print_split(char **split);
 - char		*ft_strjoin_free(char *s1, char *s2);
 - int		ft_strendswith(const char *s, const char *suffix);
+
+7/29
+add get_next_line.c
+add ft_find_next_line.c

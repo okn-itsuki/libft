@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: okunoitsuki <okunoitsuki@student.42.fr>    +#+  +:+       +#+         #
+#    By: iokuno <iokuno@student.42tokyo.jp>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/07/11 21:25:54 by iokuno            #+#    #+#              #
-#    Updated: 2025/07/29 08:18:40 by okunoitsuki      ###   ########.fr        #
+#    Updated: 2025/07/29 17:05:25 by iokuno           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
