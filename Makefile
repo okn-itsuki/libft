@@ -6,7 +6,7 @@
 #    By: iokuno <iokuno@student.42tokyo.jp>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/07/11 21:25:54 by iokuno            #+#    #+#              #
-#    Updated: 2025/07/29 17:05:25 by iokuno           ###   ########.fr        #
+#    Updated: 2025/08/04 04:17:01 by iokuno           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -73,6 +73,7 @@ SRCS := ft_abs.c \
         ft_strlcat.c \
         ft_strlcpy.c \
         ft_strlen.c \
+        ft_strnlen.c \
         ft_strmapi.c \
         ft_strncmp.c \
         ft_strndup.c \

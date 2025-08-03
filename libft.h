@@ -6,7 +6,7 @@
 /*   By: iokuno <iokuno@student.42tokyo.jp>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/24 23:16:46 by oitsuki           #+#    #+#             */
-/*   Updated: 2025/07/29 17:07:45 by iokuno           ###   ########.fr       */
+/*   Updated: 2025/08/04 04:17:21 by iokuno           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,6 +42,7 @@ int					ft_toupper(int c);
 //          String functions
 // ────────────────────────────────
 size_t				ft_strlen(const char *s);
+size_t				ft_strnlen(char *str, size_t n);
 char				*ft_strdup(const char *s);
 char				*ft_strchr(const char *s, int c);
 char				*ft_strrchr(const char *s, int c);

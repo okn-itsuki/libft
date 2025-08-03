@@ -1,6 +1,7 @@
 # libft
 
 Additional Functions
+- size_t	ft_strnlen(char *str, size_t n);
 - char		*ft_realloc(void *ptr, size_t size);
 - void		ft_meta_free(void *ptr);
 - double	ft_atof(const char *s);

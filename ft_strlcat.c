@@ -6,21 +6,11 @@
 /*   By: iokuno <iokuno@student.42tokyo.jp>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/26 17:35:39 by oitsuki           #+#    #+#             */
-/*   Updated: 2025/05/12 05:49:48 by iokuno           ###   ########.fr       */
+/*   Updated: 2025/08/04 04:17:24 by iokuno           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-
-static size_t	ft_strnlen(char *str, size_t n)
-{
-	size_t	i;
-
-	i = 0;
-	while (str[i] && n--)
-		i++;
-	return (i);
-}
 
 size_t	ft_strlcat(char *dst, const char *src, size_t size)
 {
