@@ -6,11 +6,11 @@
 #    By: iokuno <iokuno@student.42tokyo.jp>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/05/14 00:41:56 by iokuno            #+#    #+#              #
-#    Updated: 2025/08/28 16:53:23 by iokuno           ###   ########.fr        #
+#    Updated: 2025/08/29 04:10:40 by iokuno           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME	= libftprintf.a
+NAME	= ft_printf.a
 
 CC		= cc
 CFLAGS	= -Wall -Werror -Wextra -Iinc -MMD -MP
