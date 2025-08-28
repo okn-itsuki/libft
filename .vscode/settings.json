@@ -1,5 +1,12 @@
 {
 	"files.associations": {
-		"libft.h": "c"
+		"libft.h": "c",
+		"split_shell.h": "c",
+		"stdlib.h": "c",
+		"concepts": "c",
+		"cstdio": "c",
+		"type_traits": "c",
+		"new": "c",
+		"typeinfo": "c"
 	}
 }

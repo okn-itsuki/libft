@@ -6,15 +6,17 @@
 #    By: iokuno <iokuno@student.42tokyo.jp>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/07/11 21:25:54 by iokuno            #+#    #+#              #
-#    Updated: 2025/08/04 04:17:01 by iokuno           ###   ########.fr        #
+#    Updated: 2025/08/28 16:53:22 by iokuno           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME        := libft.a
+
 CC          := cc
 CFLAGS      := -Wall -Wextra -Werror
-RM          := rm -f
+
 AR          := ar rcs
+RM          := rm -f
 
 # Header files
 INC         := libft.h
